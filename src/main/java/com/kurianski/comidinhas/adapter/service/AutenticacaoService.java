@@ -1,8 +1,8 @@
 package com.kurianski.comidinhas.adapter.service;
 
 import com.kurianski.comidinhas.adapter.datastore.UsuarioEntityRepository;
-import com.kurianski.comidinhas.adapter.entity.auth.UsuarioAutenticado;
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.controller.entity.auth.UsuarioAutenticado;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

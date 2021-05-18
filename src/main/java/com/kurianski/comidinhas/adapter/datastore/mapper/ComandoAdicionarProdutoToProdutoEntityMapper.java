@@ -1,8 +1,8 @@
-package com.kurianski.comidinhas.adapter.entity.mapper;
+package com.kurianski.comidinhas.adapter.datastore.mapper;
 
-import com.kurianski.comidinhas.adapter.entity.datastore.CategoriaEntity;
-import com.kurianski.comidinhas.adapter.entity.datastore.ProdutoEntity;
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.CategoriaEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.ProdutoEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 import com.kurianski.comidinhas.domain.entity.comando.ComandoAdicionarProduto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;

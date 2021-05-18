@@ -1,4 +1,4 @@
-package com.kurianski.comidinhas.adapter.entity.response;
+package com.kurianski.comidinhas.adapter.controller.entity.response;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

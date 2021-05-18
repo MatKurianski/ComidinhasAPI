@@ -1,4 +1,4 @@
-package com.kurianski.comidinhas.adapter.entity.auth;
+package com.kurianski.comidinhas.adapter.controller.entity.auth;
 
 import lombok.Builder;
 import lombok.Data;

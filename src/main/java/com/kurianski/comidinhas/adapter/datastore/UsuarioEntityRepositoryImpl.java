@@ -1,6 +1,6 @@
 package com.kurianski.comidinhas.adapter.datastore;
 
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Component;

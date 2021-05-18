@@ -1,7 +1,7 @@
-package com.kurianski.comidinhas.adapter.entity.mapper;
+package com.kurianski.comidinhas.adapter.datastore.mapper;
 
 import com.kurianski.comidinhas.domain.entity.comando.ComandoCadastrarUsuario;
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
 package com.kurianski.comidinhas.adapter.controller;
 
-import com.kurianski.comidinhas.adapter.entity.response.MensagemResposta;
-import com.kurianski.comidinhas.adapter.entity.response.TokenResposta;
+import com.kurianski.comidinhas.adapter.controller.entity.response.MensagemResposta;
+import com.kurianski.comidinhas.adapter.controller.entity.response.TokenResposta;
 import com.kurianski.comidinhas.adapter.service.TokenService;
 import com.kurianski.comidinhas.application.usecase.cadastro.CadastrarUsuarioUseCase;
 import com.kurianski.comidinhas.domain.entity.comando.ComandoAutenticarUsuario;

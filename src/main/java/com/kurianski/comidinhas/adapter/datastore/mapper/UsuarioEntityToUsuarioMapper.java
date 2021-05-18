@@ -1,7 +1,7 @@
-package com.kurianski.comidinhas.adapter.entity.mapper;
+package com.kurianski.comidinhas.adapter.datastore.mapper;
 
 import com.kurianski.comidinhas.domain.entity.Usuario;
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,4 +1,4 @@
-package com.kurianski.comidinhas.adapter.entity.datastore;
+package com.kurianski.comidinhas.adapter.datastore.entity;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,6 +1,6 @@
 package com.kurianski.comidinhas.adapter.datastore;
 
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.UsuarioEntity;
 
 import java.util.Optional;
 

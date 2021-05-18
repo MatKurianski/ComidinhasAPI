@@ -1,6 +1,6 @@
-package com.kurianski.comidinhas.adapter.entity.mapper;
+package com.kurianski.comidinhas.adapter.datastore.mapper;
 
-import com.kurianski.comidinhas.adapter.entity.datastore.CategoriaEntity;
+import com.kurianski.comidinhas.adapter.datastore.entity.CategoriaEntity;
 import com.kurianski.comidinhas.domain.entity.Categoria;
 import org.springframework.stereotype.Component;
 

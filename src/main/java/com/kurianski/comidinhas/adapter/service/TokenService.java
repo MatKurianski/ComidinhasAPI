@@ -1,6 +1,6 @@
 package com.kurianski.comidinhas.adapter.service;
 
-import com.kurianski.comidinhas.adapter.entity.auth.UsuarioAutenticado;
+import com.kurianski.comidinhas.adapter.controller.entity.auth.UsuarioAutenticado;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

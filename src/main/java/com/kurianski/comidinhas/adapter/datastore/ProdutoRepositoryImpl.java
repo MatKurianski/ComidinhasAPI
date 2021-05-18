@@ -1,14 +1,10 @@
 package com.kurianski.comidinhas.adapter.datastore;
 
-import com.kurianski.comidinhas.adapter.entity.datastore.CategoriaEntity;
-import com.kurianski.comidinhas.adapter.entity.datastore.ProdutoEntity;
-import com.kurianski.comidinhas.adapter.entity.datastore.UsuarioEntity;
-import com.kurianski.comidinhas.adapter.entity.mapper.EntityMapper;
+import com.kurianski.comidinhas.adapter.datastore.entity.ProdutoEntity;
+import com.kurianski.comidinhas.adapter.datastore.mapper.EntityMapper;
 import com.kurianski.comidinhas.domain.entity.Produto;
 import com.kurianski.comidinhas.domain.entity.comando.ComandoAdicionarProduto;
-import com.kurianski.comidinhas.domain.exception.UsuarioNaoExisteException;
 import lombok.RequiredArgsConstructor;
-import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Repository;
 
 import java.util.*;
